@@ -1,0 +1,14 @@
+* {
+    background-color: antiquewhite;
+}
+
+#translator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#translator .column {
+    height: 85%;
+}
